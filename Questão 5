@@ -1,0 +1,3 @@
+palavra = input("Digite a palavra que deseja inverter:")
+string_invertida = palavra[::-1]
+print(string_invertida) 
